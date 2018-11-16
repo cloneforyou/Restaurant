@@ -1,2 +1,2 @@
-# Resturant
+# Restaurant
 for restaurant recommendation project
