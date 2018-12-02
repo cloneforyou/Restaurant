@@ -17,7 +17,7 @@
     
     <meta name="viewport" content="width=device-width,
         initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <style>#map_80e892acad14405f8ba5e264067f3981 {
+    <style>#map_7751fa07ac0a42578997ab967edb5b5f {
         position: relative;
         width: 100.0%;
         height: 100.0%;
@@ -28,7 +28,7 @@
 </head>
 <body>    
     
-    <div class="folium-map" id="map_80e892acad14405f8ba5e264067f3981" ></div>
+    <div class="folium-map" id="map_7751fa07ac0a42578997ab967edb5b5f" ></div>
 </body>
 <script>    
     
@@ -36,8 +36,8 @@
         var bounds = null;
     
 
-    var map_80e892acad14405f8ba5e264067f3981 = L.map(
-        'map_80e892acad14405f8ba5e264067f3981', {
+    var map_7751fa07ac0a42578997ab967edb5b5f = L.map(
+        'map_7751fa07ac0a42578997ab967edb5b5f', {
         center: [40.8075, -73.9626],
         zoom: 14,
         maxBounds: bounds,
@@ -49,7 +49,7 @@
 
     
     
-    var tile_layer_56789589cd42442faae933f07cae8829 = L.tileLayer(
+    var tile_layer_dc0cdeccae3d435c93c6b9046f8aaa9e = L.tileLayer(
         'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
         {
         "attribution": null,
@@ -61,26 +61,26 @@
         "opacity": 1,
         "subdomains": "abc",
         "tms": false
-}).addTo(map_80e892acad14405f8ba5e264067f3981);
+}).addTo(map_7751fa07ac0a42578997ab967edb5b5f);
     
-        var marker_0f561d726aa74333a664ebb88de8a7db = L.marker(
+        var marker_852740c2d9914522a8de921546f5c099 = L.marker(
             [40.8075, -73.9626],
             {
                 icon: new L.Icon.Default()
                 }
-            ).addTo(map_80e892acad14405f8ba5e264067f3981);
+            ).addTo(map_7751fa07ac0a42578997ab967edb5b5f);
         
     
-            var popup_1fee37c96480475d9e9287f196aeef03 = L.popup({maxWidth: '300'
+            var popup_b650664e9ea64b4786103b5566e0a606 = L.popup({maxWidth: '300'
             
             });
 
             
-                var html_c2b53948384e47f0a8c5e4d9e9bd8f37 = $(`<div id="html_c2b53948384e47f0a8c5e4d9e9bd8f37" style="width: 100.0%; height: 100.0%;">Columbia University</div>`)[0];
-                popup_1fee37c96480475d9e9287f196aeef03.setContent(html_c2b53948384e47f0a8c5e4d9e9bd8f37);
+                var html_809db354adfb4e07b37e3527d66320ce = $(`<div id="html_809db354adfb4e07b37e3527d66320ce" style="width: 100.0%; height: 100.0%;">Columbia University</div>`)[0];
+                popup_b650664e9ea64b4786103b5566e0a606.setContent(html_809db354adfb4e07b37e3527d66320ce);
             
 
-            marker_0f561d726aa74333a664ebb88de8a7db.bindPopup(popup_1fee37c96480475d9e9287f196aeef03)
+            marker_852740c2d9914522a8de921546f5c099.bindPopup(popup_b650664e9ea64b4786103b5566e0a606)
             ;
 
             
