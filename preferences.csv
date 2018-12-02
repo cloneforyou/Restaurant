@@ -1,8 +1,7 @@
-Timestamp,What is your desired price level?,What categories of food would you like to try?,What's your minimum accepted rating level?,Do you need the restaurant to be liked by vegetarians? ,Accepts Credit Cards?,Do you need Wi-Fi?,,Has TV
-,,,,,,,,
-12/1/2018 21:27:36,$$$,"Italian, Seafood, Wine Bars",4,no,Yes,yes,,
-12/1/2018 21:28:11,$$,"Japanese, Thai, Asian Fusion, Noodles",3,yes,No,no,,
-12/1/2018 21:28:16,$$$$,"Japanese, Asian Fusion",4,no,Yes,yes,,
-12/1/2018 21:29:09,$,Fast Food,3,no,No,yes,,
-12/1/2018 21:29:09,$,"American (New), Fast Food, Barbeque, Gluten-Free",3,no,Yes,yes,,
-12/1/2018 21:29:31,$$,"French, Korean, Malaysian, Shanghainese, Barbeque, Hot Pot",1,yes,No,no,,
+Timestamp,"Please specify an area to go, should be same for the whole group (for example, Chinatown, New York, NY).",What is your desired price level?,What categories of food would you like to try?,What's your minimum accepted rating level?,Do you need the restaurant to be liked by vegetarians? ,Accepts Credit Cards?,Do you need Wi-Fi?
+12/2/18 0:19,Little Italy,$$,"Italian, Wine Bars",4,yes,No,no
+12/2/18 0:19,"Little Italy, NY",$$$,"Seafood, Wine Bars",3,no,Yes,yes
+12/2/18 0:19,Little Italy,$$$$,"Italian, Seafood, Noodles, Wine Bars",5,yes,Yes,yes
+12/2/18 0:20,Columbia University,$,"American (New), Japanese, Chinese, Korean, Malaysian, Seafood, Noodles",3,no,No,yes
+12/2/18 0:20,"New York University, New York, NY",$,"American (New), Fast Food, Barbeque",3,no,Yes,yes
+12/2/18 0:21,"Chinatown, New York, NY",$$,"Chinese, Cantonese, Malaysian, Thai, Asian Fusion",3,no,Yes,yes
